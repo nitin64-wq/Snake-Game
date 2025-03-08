@@ -1,1 +1,1 @@
-# Snake-Game
+# Tic Tac Toe
